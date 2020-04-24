@@ -1,5 +1,5 @@
 ---
-title: Comments on ``Cognitive ability and motivation in a new effort-based decision-making task testing healthy participants showing subclinical symptoms of schizophrenia'' by Thea Simensen
+title: Comments on ``Short Title'' by Thea Simensen
 author: Matthias Mittner, UiT
 ...
 
@@ -22,7 +22,7 @@ Footnotes can be entered using this code[^1].
  
 Figures are included like this.
 
-![This is gonna be the caption.](pics/dummy.pdf){#fig:dummy}
+![This is gonna be the caption.](img/dummy.pdf){#fig:dummy}
 
 And referenced from here as Fig. @fig:dummy.
 
