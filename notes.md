@@ -3,14 +3,15 @@ title: Comments on ``Short Title'' by Thea Simensen
 author: Matthias Mittner, UiT
 ...
 
+<!---
+Comments look like this and do not show up in the PDF
+-->
+
+
 # Introduction
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
-<!---
-Comments look like this and do not show up in the PDF
--->
 
 References are cited as @mittner2014brain or [@mittner2014brain].
 
@@ -51,6 +52,7 @@ Table in LaTeX format because of fancy formatting
 \end{tabular}
 \label{tab:probbf}
 \end{table}
+
 
 # Results
 

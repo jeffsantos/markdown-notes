@@ -183,6 +183,18 @@ $if(csl-refs)$
   {\par}
 $endif$
 
+% Latex for Logicians
+\usepackage{bussproofs}
+\usepackage{proof}
+\usepackage[ND,SEQ]{prftree}
+\usepackage{qtree}
+
+% Other custom packages
+\usepackage{tabularx}
+\usepackage{xspace}
+
+\input{macros.inc}
+
 \begin{document}
 $if(title)$
 {\huge\textsf{\textbf{$title$}}}\\[1ex]
