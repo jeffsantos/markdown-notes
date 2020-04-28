@@ -6,3 +6,5 @@
 *.aux
 *.pdf
 *.tex
+*.fdb_latexmk
+*.fls
